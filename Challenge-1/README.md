@@ -1,13 +1,13 @@
-Challenge #1
+**Challenge #1**
 
 A 3-tier environment is a common setup. Use a tool of your choosing/familiarity create these resources. Please remember we will not be judged on the outcome but more focusing on the approach, style and reproducibility.
 
-3-tier IaaS Solution :
+**3-tier IaaS Solution :**
 
 Overview :
 The Solution includes Web Servers, Application Servers and Database Servers.Following best practices for running a 3 tier common environmrnt setup in Cloud/on-perm given Architecture model will help to achive the build/setup.
 
-Cloud Setup Architecture:
+**Cloud Setup Architecture:**
 
   Pre-Requirements for Azure :
  
@@ -24,6 +24,6 @@ Cloud Setup Architecture:
       
  ![image](https://user-images.githubusercontent.com/106581159/171143626-bebb7b57-b476-4a5f-b9e3-9c1589e41da3.png)
 
-  Pricing :
+  **Pricing :**
   
     Pay as You Go model helps to manage the pricing for Azure resoures and doesn't require the user to license.
